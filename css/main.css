@@ -29,7 +29,8 @@ body {
 
 nav {
 	background-color: #000;
-	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
 	height: 40px;
 	text-align: center;
 }
