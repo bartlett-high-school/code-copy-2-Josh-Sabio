@@ -36,7 +36,8 @@ nav {
 
 ul.nav {
 	width: 75%;
-	margin: 0;
+	margin-left: auto;
+	margin-right: auto;
 	text-align: center;
 	word-spacing: 67px;
 }
@@ -232,7 +233,8 @@ hr {
 	border: 0;
     height: 1px;
     background-color: lightgray;
-    margin: 0;
+    margin-left: auto;
+	margin-right: auto;
 }
 
 span.blinks {
